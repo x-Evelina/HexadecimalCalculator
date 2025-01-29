@@ -2,7 +2,7 @@
 
 A web-based calculator that supports hexadecimal (base 16) calculations.
 
-![Calculator Screenshot]([/screenshot.png](https://files.catbox.moe/juoq1d.png))
+![Calculator Screenshot](https://files.catbox.moe/juoq1d.png)
 
 ## Features
 - Basic arithmetic operations (+, -, ×, ÷)
