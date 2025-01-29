@@ -2,7 +2,7 @@
 
 A web-based calculator that supports hexadecimal (base 16) calculations.
 
-Site live at:
+Live at:
 https://x-evelina.github.io/HexadecimalCalculator/
 
 ![Calculator Screenshot](https://files.catbox.moe/juoq1d.png)
